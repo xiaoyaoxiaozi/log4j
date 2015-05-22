@@ -1,0 +1,19 @@
+2015-05-22 09:45:05  [ main:0 ] - [ DEBUG ]   debug 
+ 2015-05-22 09:45:05  [ main:1 ] - [ INFO ]  test
+ 2015-05-22 09:45:05  [ main:1 ] - [ ERROR ]   error 
+ 2015-05-22 09:45:26  [ main:0 ] - [ DEBUG ]   debug 
+ 2015-05-22 09:45:26  [ main:0 ] - [ INFO ]  test
+ 2015-05-22 09:45:26  [ main:0 ] - [ ERROR ]   error 
+ 2015-05-22 09:46:20  [ main:0 ] - [ DEBUG ]   debug 
+ 2015-05-22 09:46:20  [ main:1 ] - [ INFO ]  test
+ 2015-05-22 09:46:20  [ main:1 ] - [ ERROR ]   error 
+ 2015-05-22 09:47:36  [ main:0 ] - [ DEBUG ]   debug 
+ 2015-05-22 09:47:36  [ main:0 ] - [ INFO ]  test
+ 2015-05-22 09:47:36  [ main:0 ] - [ ERROR ]   error 
+ 2015-05-22 09:48:29  [ main:0 ] - [ DEBUG ]   debug 
+ 2015-05-22 09:48:29  [ main:2 ] - [ INFO ]  test
+ 2015-05-22 09:48:29  [ main:2 ] - [ ERROR ]   error 
+ 2015-05-22 09:58:50  [ main:0 ] - [ DEBUG ]   debug 
+ 2015-05-22 09:58:50  [ main:14 ] - [ INFO ]  test
+ 2015-05-22 09:58:50  [ main:15 ] - [ ERROR ]   error 
+ 
